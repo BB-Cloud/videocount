@@ -1,0 +1,29 @@
+{
+  "name": "videocount",
+  "version": "1.0.0",
+  "description": "CommandLine Tool for video count",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BB-Cloud/videocount.git"
+  },
+  "bin": {
+    "videocount": "bin/videocount.js"
+  },
+  "keywords": [
+    "videocount",
+    "node"
+  ],
+  "dependencies": {
+    "moment": "^2.27.0"
+  },
+  "author": "zixiang.wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BB-Cloud/videocount/issues"
+  },
+  "homepage": "https://github.com/BB-Cloud/videocount#readme"
+}
